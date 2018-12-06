@@ -18,6 +18,5 @@ As an honorary member of the house of Slytherin, I can cast dark magic spells to
 
 ### Cloud Architect
 In the kitchen where Infrastructure, Containers, and Functions meet, I am a pizzaiolo. Ensuring that each slice of the pizza is cooked to perfection and on-time.  
-![pizza as a service 2.0](/img/pizza_as_a_service_2.0.jpg)
 <br>
 > Talk is Cheap. Show me the Code <br />  - Linus Torvalds
