@@ -2,9 +2,10 @@
 templateKey: about-page
 title: 'About '
 ---
-# HI, I AM JOHN HETLAGE
+# Welcome to John's Research and Internet of Things.
 
-I am a developer in Kanasas City.
+My name is John Hetlage and I currently reside in Kanasas City. I consider myself to be a lifelong student. I am very passionate about technology and the ethics behind it. I started out from a manufacturing background and worked as a machinist. One day I finally decided it wasn't for me and threw my career away. I am both self taught and formally educated in various subject  of technology. 
+
 ## I am a . . .
 
 ### Coder
