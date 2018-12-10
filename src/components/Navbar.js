@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 //import logo from '../img/logo.svg'
-import johnsriot from '../img/johnsriot.svg'
+import johnsriot from '../img/johnsriot_ex.jpg'
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
@@ -25,7 +25,7 @@ const Navbar = () => (
       <div className="navbar-end">
         <a
           className="navbar-item"
-          href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+          href="https://github.com/johnsriot/johnsriot"
           target="_blank"
           rel="noopener noreferrer"
         >
