@@ -10,7 +10,10 @@ tags:
 ---
 What you will need to get started: 
 
-
+*  
+*  
+*  
+* 
 
 1. Download the PI Zero image from RetroPie.
 2. Write image to SD card.
